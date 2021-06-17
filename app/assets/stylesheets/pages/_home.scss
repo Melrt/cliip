@@ -1,1 +1,25 @@
 // Specific CSS for your home-page
+#home {
+  background-color: $dark-green;
+  height: 100vh;
+  color: white;
+  font-family: $headers-font;
+  padding-top: 100px;
+  h1 {
+    font-weight: 900;
+    font-size: 100px;
+  }
+  h2 {
+    font-weight: 900;
+    font-size: 65px;
+  }
+  .steps-details {
+    background-color: $light-gray;
+    color: black;
+    padding: 15px 0px;
+    border-radius: 15px;
+    p {
+      margin-bottom: 0px;
+    }
+  }
+}
