@@ -13,5 +13,5 @@ Cette app est faite avec Ruby on Rails et hébergée sur Heroku
 
 ## Enjoy visiting 🚀
 
-![Alt Text](https://tenor.com/YpBH.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
