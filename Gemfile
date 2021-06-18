@@ -39,10 +39,11 @@ gem 'bootstrap', '~> 5.0.1'
 
 gem 'cloudinary', '~> 1.16.0'
 
-group :development, :test do  gem 'pry-byebug'
+group :development, :test do
+  gem 'pry-byebug'
   gem 'pry-rails'
   gem 'dotenv-rails', groups: [:development, :test]
-
+  gem 'rspec-rails', '~> 3.4', '>= 3.4.2'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
