@@ -11,6 +11,9 @@ Cliip, dans sa version simplifée, permet de sélectionner vos produits favoris 
 
 Cette app est faite avec Ruby on Rails et hébergée sur Heroku
 
+## Journal de bord 🗞
+[18/06/21] Actuellement en train de suivre ce tuto https://thoughtbot.com/upcase/test-driven-rails pour faire des jolis tests 
+
 ## Enjoy visiting 🚀
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
