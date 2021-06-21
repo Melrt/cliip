@@ -2,7 +2,7 @@
 
 
 https://cliip.herokuapp.com/
-![alt text](https://drive.google.com/file/d/1Esi4RPnQ06sYzdqT_8xy6bvmircRK8EP/view)
+![alt text](preview.png)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com) & [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
