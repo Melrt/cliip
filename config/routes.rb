@@ -4,4 +4,5 @@ Rails.application.routes.draw do
   root to: "pages#home"
   resources :pins, only: [:index, :show, :new, :create, :update]
   # TODO create route to choose image
+
 end
